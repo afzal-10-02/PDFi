@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import App from './App.jsx'
 import AppFooter from './assets/Footer.jsx'
 import AppHeader from './assets/Header.jsx'
+import { Analytics } from "@vercel/analytics/react"
 
 
 
