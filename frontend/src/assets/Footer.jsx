@@ -2,10 +2,10 @@ import React from "react";
 
 const AppFooter = () => {
   return (
-    <footer className="bg-dark text-white text-center py-3 mt-auto">
+    <footer className="bg-dark text-white text-center py-1 mt-auto">
       <div className="container">
         <p className="mb-0">
-          © {new Date().getFullYear()} JPG to PDF Tool | Built with ❤️
+          © {new Date().getFullYear()} PDFi | Built with ❤️
         </p>
       </div>
     </footer>
